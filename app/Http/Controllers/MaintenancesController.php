@@ -26,8 +26,6 @@ class MaintenancesController extends Controller
             'complaint'   => 'required',
             'date_reported'   => 'required',
             'date_required'   => 'required',
-            'date_repaired'   => 'required',
-            'repair_result'   => 'required',
             'status'   => 'required',
             'id_lecturer'   => 'required',
             'id_technician' => 'required',
