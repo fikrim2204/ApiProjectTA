@@ -8,6 +8,11 @@ use Illuminate\Support\Facades\Validator;
 
 class ProcurementsController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware("login");
+    }
+    
     public function index()
     {
         $procurement = ProcurementModel::all();

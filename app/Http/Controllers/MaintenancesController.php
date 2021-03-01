@@ -8,6 +8,11 @@ use Illuminate\Support\Facades\Validator;
 
 class MaintenancesController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware("login");
+    }
+    
     public function index()
     {
         $maintenance = MaintenanceModel::all();

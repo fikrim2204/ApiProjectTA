@@ -8,6 +8,11 @@ use Illuminate\Support\Facades\Validator;
 
 class ProgramStudiesController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware("login");
+    }
+    
     public function index()
     {
         $program_study = ProgramStudyModel::all();

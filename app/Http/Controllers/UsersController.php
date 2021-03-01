@@ -12,6 +12,11 @@ class UsersController extends Controller
     {
         $this->middleware("login");
     }
+    
+    public function __construct()
+    {
+        $this->middleware("login");
+    }
 
     public function userlogin()
     {
@@ -36,7 +41,7 @@ class UsersController extends Controller
             'address'   => 'required',
             'no_hp'   => 'required',
             'password'   => 'required',
-            'id_user_type'   => 'required',
+            'role'   => 'required',
         ]);
 
         if ($validator->fails()) {
@@ -53,7 +58,7 @@ class UsersController extends Controller
                 'address'     => $request->input('address'),
                 'no_hp'     => $request->input('no_hp'),
                 'password'     => $request->input('password'),
-                'id_user_type'     => $request->input('id_user_type'),
+                'role'     => $request->input('role'),
             ]);
 
             if ($user) {
@@ -96,7 +101,7 @@ class UsersController extends Controller
             'address'   => 'required',
             'no_hp'   => 'required',
             'password'   => 'required',
-            'id_user_type'   => 'required',
+            'role'   => 'required',
         ]);
 
         if ($validator->fails()) {
@@ -113,7 +118,7 @@ class UsersController extends Controller
                 'address'     => $request->input('address'),
                 'no_hp'     => $request->input('no_hp'),
                 'password'     => $request->input('password'),
-                'id_user_type'     => $request->input('id_user_type'),
+                'role'     => $request->input('role'),
             ]);
 
             if ($user) {
