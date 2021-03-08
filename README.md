@@ -1,3 +1,22 @@
+# Documentation
+
+## How to run it?
+1. Open Terminal
+2. write : php -S localhost:8000 -t public
+
+## How to use api?
+1. Register : .../register (POST)
+2. Login : .../login (POST)
+
+### GET/POST/PUT/DELETE
+There is several model excist : User, Room, Class, Procurement, Maintenance, Program Study and Schedule.
+
+4 method to call api is : GET / POST / PUT / DELETE.
+
+how to write : .../{model}/api/v1/json.
+
+example : user/api/v1/json.
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
