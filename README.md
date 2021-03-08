@@ -15,7 +15,7 @@ There is several model excist : User, Room, Class, Procurement, Maintenance, Pro
 
 how to write : .../{model}/api/v1/json.
 
-example : user/api/v1/json.
+example : .../user/api/v1/json.
 
 # Lumen PHP Framework
 
