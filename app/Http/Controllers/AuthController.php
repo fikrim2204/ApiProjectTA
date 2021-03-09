@@ -16,9 +16,7 @@ class AuthController extends Controller
             'name' => 'required|max:100',
             'email' => 'required|unique:users|max:255',
             'password' => 'required|min:6',
-            'address' => 'required',
-            'no_hp' => 'required',
-            'id_user_type' => 'required'
+            'role' => 'required'
         ]);
 
         $name = $request->input("name");
@@ -26,7 +24,7 @@ class AuthController extends Controller
         $password = $request->input("password");
         $address = $request->input("address");
         $no_hp = $request->input("no_hp");
-        $id_user_type = $request->input("id_user_type");
+        $role = $request->input("role");
 
         $hashPwd = Hash::make($password);
 
@@ -34,7 +32,7 @@ class AuthController extends Controller
             "name" => $name,
             "email" => $email,
             "password" => $hashPwd,
-            "id_user_type" => $id_user_type,
+            "role" => $role,
             "address" => $address,
             "no_hp" => $no_hp
         ];
@@ -60,7 +58,7 @@ class AuthController extends Controller
     {
         $this->validate($request, [
             'email' => 'required',
-            'password' => 'required|min:6'
+            'password' => 'required'
         ]);
 
         $email = $request->input("email");
@@ -73,6 +71,10 @@ class AuthController extends Controller
                 "message" => "login_failed",
                 "code"    => 401,
                 "result"  => [
+                    "user" => [
+                        "name" => null,
+                        "role" => null,
+                    ],
                     "token" => null,
                 ]
             ];
@@ -90,6 +92,15 @@ class AuthController extends Controller
                 "message" => "login_success",
                 "code"    => 200,
                 "result"  => [
+                    "user" => [
+                        "id" => $user->id,
+                        "name" => $user->name,
+                        "email" => $user->email,
+                        "password" => $user->password,
+                        "address" => $user->address,
+                        "no_hp" => $user->no_hp,
+                        "token" => $user->token
+                    ],
                     "token" => $newtoken,
                 ]
             ];
@@ -98,6 +109,15 @@ class AuthController extends Controller
                 "message" => "login_failed",
                 "code"    => 401,
                 "result"  => [
+                    "user" => [
+                        "id" => null,
+                        "name" => null,
+                        "email" => null,
+                        "password" => null,
+                        "address" => null,
+                        "no_hp" => null,
+                        "role" => null,
+                    ],
                     "token" => null,
                 ]
             ];

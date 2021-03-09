@@ -1,5 +1,5 @@
  <?php
-/*
+
 namespace App\Http\Controllers;
 
 use App\Models\StatusModel;
@@ -8,6 +8,11 @@ use Illuminate\Support\Facades\Validator;
 
 class StatusesController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware("login");
+    }
+    
     public function index()
     {
         $status = StatusModel::all();

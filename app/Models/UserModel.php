@@ -25,7 +25,7 @@ class UserModel extends Model implements AuthenticatableContract, AuthorizableCo
         'password',
         'address',
         'no_hp',
-        'id_user_type',
+        'role',
         'token',
     ];
 

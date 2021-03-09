@@ -8,6 +8,11 @@ use Illuminate\Support\Facades\Validator;
 
 class MaintenancesController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware("login");
+    }
+
     public function index()
     {
         $maintenance = MaintenanceModel::all();
@@ -26,11 +31,8 @@ class MaintenancesController extends Controller
             'complaint'   => 'required',
             'date_reported'   => 'required',
             'date_required'   => 'required',
-            'date_repaired'   => 'required',
-            'repair_result'   => 'required',
             'status'   => 'required',
             'id_lecturer'   => 'required',
-            'id_technician' => 'required',
             'id_room'   => 'required',
         ]);
 
@@ -48,11 +50,8 @@ class MaintenancesController extends Controller
                 'complaint'     => $request->input('complaint'),
                 'date_reported'     => $request->input('date_reported'),
                 'date_required'     => $request->input('date_required'),
-                'date_repaired'     => $request->input('date_repaired'),
-                'repair_result'     => $request->input('repair_result'),
                 'status'     => $request->input('status'),
                 'id_lecturer'     => $request->input('id_lecturer'),
-                'id_technician'     => $request->input('id_technician'),
                 'id_room'     => $request->input('id_room'),
             ]);
 
