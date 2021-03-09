@@ -9,17 +9,15 @@
 2. Login : .../login (POST)
 
 ### GET/POST/PUT/DELETE
-There is several model exist : User, Room, Class, Procurement, Maintenance, Program Study and Schedule.
-
-4 method to call api is : GET / POST / PUT / DELETE.
-
-how to write : .../{model}/api/v1/json.
+There is several model exist : User, Room, Class, Procurement, Maintenance, Program Study and Schedule. <br>
+4 method to call api is : GET / POST / PUT / DELETE. <br>
+how to write : .../{model}/api/v1/json. <br>
 
 example : 
 - User
-.../user/api/v1/json (POST/GET/PUT/DELETE).
-using port : 8888
-in localhost : http:://localhost:8888/user/api/v1/json
+.../user/api/v1/json (POST/GET/PUT/DELETE). <br>
+using port : 8888 <br>
+in localhost : http:://localhost:8888/user/api/v1/json <br>
 
 # Lumen PHP Framework
 
