@@ -14,7 +14,7 @@ There is several model exist : User, Room, Class, Procurement, Maintenance, Prog
 how to write : .../{model}/api/v1/json. <br>
 
 example : 
-- User
+- User <br>
 .../user/api/v1/json (POST/GET/PUT/DELETE). <br>
 using port : 8888 <br>
 in localhost : http:://localhost:8888/user/api/v1/json <br>
