@@ -15,7 +15,11 @@ There is several model exist : User, Room, Class, Procurement, Maintenance, Prog
 
 how to write : .../{model}/api/v1/json.
 
-example : .../user/api/v1/json.
+example : 
+- User
+.../user/api/v1/json (POST/GET/PUT/DELETE).
+using port : 8888
+in localhost : http:://localhost:8888/user/api/v1/json
 
 # Lumen PHP Framework
 
