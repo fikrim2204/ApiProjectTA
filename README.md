@@ -4,12 +4,12 @@
 1. Open Terminal
 2. write : php -S localhost:8000 -t public
 
-## How to use api?
+## How to use API?
 1. Register : .../register (POST)
 2. Login : .../login (POST)
 
 ### GET/POST/PUT/DELETE
-There is several model excist : User, Room, Class, Procurement, Maintenance, Program Study and Schedule.
+There is several model exist : User, Room, Class, Procurement, Maintenance, Program Study and Schedule.
 
 4 method to call api is : GET / POST / PUT / DELETE.
 
