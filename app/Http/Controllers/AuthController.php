@@ -99,6 +99,7 @@ class AuthController extends Controller
                         "password" => $user->password,
                         "address" => $user->address,
                         "no_hp" => $user->no_hp,
+                        "role" => $user->role,
                         "token" => $user->token
                     ],
                     "token" => $newtoken,
