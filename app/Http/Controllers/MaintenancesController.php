@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\MaintenanceModel;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\DB;
 
 class MaintenancesController extends Controller
 {
@@ -13,9 +14,25 @@ class MaintenancesController extends Controller
         $this->middleware("login");
     }
 
+    protected function maintenanceAll(){
+        return DB::table('maintenance')
+        ->select('maintenance.id', 'maintenance.complaint', 
+        'maintenance.status', 'maintenance.id_lecturer')
+        ->get();
+    }
+
+    protected function maintenanceDetail($id){
+        return DB::table('maintenance')
+        ->join('users', 'maintenance.id_lecturer', '=', 'users.id')
+        ->select('maintenance.id', 'maintenance.complaint', 'users.name as lecturer', 
+        'maintenance.id_room', 'maintenance.no_computer', 'maintenance.date_reported', 
+        'maintenance.date_required', 'maintenance.status')
+        ->where('maintenance.id', $id)->first();
+    }
+
     public function index()
     {
-        $maintenance = MaintenanceModel::all();
+        $maintenance = $this->maintenanceAll();
 
         return response()->json([
             'success' => true,
@@ -48,7 +65,7 @@ class MaintenancesController extends Controller
             $maintenance = MaintenanceModel::create([
                 'no_computer'     => $request->input('no_computer'),
                 'complaint'     => $request->input('complaint'),
-                'date_reported'     => $request->input('date_reported'),
+                'date_reported'     => date('Y-m-d'),
                 'date_required'     => $request->input('date_required'),
                 'status'     => $request->input('status'),
                 'id_lecturer'     => $request->input('id_lecturer'),
@@ -63,7 +80,7 @@ class MaintenancesController extends Controller
                 ], 201);
             } else {
                 return response()->json([
-                    'success' => false,
+                        'success' => false,
                     'message' => 'Pemeliharaan Gagal Disimpan!',
                 ], 400);
             }
@@ -72,7 +89,12 @@ class MaintenancesController extends Controller
 
     public function show($id)
     {
-        $maintenance = MaintenanceModel::find($id);
+        // $maintenance['maintenance'] = MaintenanceModel::find($id);
+        $maintenance = $this->maintenanceDetail($id);
+    //     $maintenance =[
+    //         'maintenance' =>MaintenanceModel::maintenanceDetail($id),
+    //         'user' =>MaintenanceModel::maintenanceDetail($id)
+    // ];
 
         if ($maintenance) {
             return response()->json([
@@ -95,11 +117,8 @@ class MaintenancesController extends Controller
             'complaint'   => 'required',
             'date_reported'   => 'required',
             'date_required'   => 'required',
-            'date_repaired'   => 'required',
-            'repair_result'   => 'required',
             'status'   => 'required',
             'id_lecturer'   => 'required',
-            'id_technician' => 'required',
             'id_room'   => 'required',
         ]);
 
@@ -111,19 +130,27 @@ class MaintenancesController extends Controller
                 'data'   => $validator->errors()
             ], 401);
         } else {
+            
+            $maintenance = MaintenanceModel::where('id', $id)->first();
+            if ($maintenance) {
+                $maintenance -> no_computer = $request->input('no_computer');
+                $maintenance -> complaint = $request->input('complaint');
+                $maintenance -> date_reported = $request->input('date_reported');
+                $maintenance -> date_required = $request->input('date_required');
+                $maintenance -> date_repaired = $request->input('date_repaired');
+                $maintenance -> repair_result = $request->input('repair_result');
+                $maintenance -> status = $request->input('status');
+                $maintenance -> id_lecturer = $request->input('id_lecturer');
+                $maintenance -> id_technician = $request->input('id_technician');
+                $maintenance -> id_room = $request->input('id_room');
 
-            $maintenance = MaintenanceModel::whereId($id)->update([
-                'no_computer'     => $request->input('no_computer'),
-                'complaint'     => $request->input('complaint'),
-                'date_reported'     => $request->input('date_reported'),
-                'date_required'     => $request->input('date_required'),
-                'date_repaired'     => $request->input('date_repaired'),
-                'repair_result'     => $request->input('repair_result'),
-                'status'     => $request->input('status'),
-                'id_lecturer'     => $request->input('id_lecturer'),
-                'id_technician'     => $request->input('id_technician'),
-                'id_room'     => $request->input('id_room'),
-            ]);
+                $maintenance -> save();
+            } else {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Id tidak ditemukan'
+                ], 400);
+            }
 
             if ($maintenance) {
                 return response()->json([

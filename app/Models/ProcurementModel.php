@@ -16,8 +16,9 @@ class ProcurementModel extends Model
      */
     protected $fillable = [
         'procurement',
+        'total',
         'date_requested',
-        'reason',
+        'description',
         'id_user',
         'status',
         'note',

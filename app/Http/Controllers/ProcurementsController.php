@@ -28,10 +28,10 @@ class ProcurementsController extends Controller
     {
         $validator = Validator::make($request->all(), [
             'procurement'   => 'required',
-            'date_requested'   => 'required',
-            'reason'   => 'required',
+            'total' => 'required',
+            'description'   => 'required',
             'id_user'   => 'required',
-            'status'   => 'required',
+            'status'   => 'required'
         ]);
 
         if ($validator->fails()) {
@@ -45,11 +45,12 @@ class ProcurementsController extends Controller
 
             $procurement = ProcurementModel::create([
                 'procurement'     => $request->input('procurement'),
-                'date_requested'     => $request->input('date_requested'),
-                'reason'     => $request->input('reason'),
+                'total' => $request->input('total'),
+                'date_requested'     => date('Y-m-d'),
+                'description'     => $request->input('description'),
                 'id_user'     => $request->input('id_user'),
                 'status'     => $request->input('status'),
-                'note' => $request->input('note'),
+                'note' => $request->input('note')
             ]);
 
             if ($procurement) {
@@ -89,8 +90,7 @@ class ProcurementsController extends Controller
     {
         $validator = Validator::make($request->all(), [
             'procurement'   => 'required',
-            'date_requested'   => 'required',
-            'reason'   => 'required',
+            'description'   => 'required',
             'id_user'   => 'required',
             'status'   => 'required',
         ]);
@@ -104,14 +104,43 @@ class ProcurementsController extends Controller
             ], 401);
         } else {
 
-            $procurement = ProcurementModel::whereId($id)->update([
-                'procurement'     => $request->input('procurement'),
-                'date_requested'     => $request->input('date_requested'),
-                'reason'     => $request->input('reason'),
-                'id_user'     => $request->input('id_user'),
-                'status'     => $request->input('status'),
-                'note' => $request->input('note'),
-            ]);
+            $procurement = ProcurementModel::where('id', $id)->first();
+            if ($procurement) {
+                $procurement -> procurement = $request->input('procurement');
+                $procurement -> description = $request->input('description');
+                $procurement -> id_user = $request->input('id_user');
+                $procurement -> status = $request->input('status');
+                $procurement -> note = $request->input('note');
+
+                $procurement -> save();
+            } else {
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Id tidak ditemukan'
+                ], 400);
+            }
+
+            // $procurement = ProcurementModel::whereId($id)->update([
+            //     'procurement'     => $request->input('procurement'),
+            //     'date_requested'     => $request->input('date_requested'),
+            //     'reason'     => $request->input('reason'),
+            //     'id_user'     => $request->input('id_user'),
+            //     'status'     => $request->input('status'),
+            //     'note' => $request->input('note'),
+            // ]);
+
+            // if ($procurement) {
+            //     return response()->json([
+            //         'success' => true,
+            //         'message' => 'Pengadaan Berhasil Diupdate!',
+            //         'data' => $procurement
+            //     ], 201);
+            // } else {
+            //     return response()->json([
+            //         'success' => false,
+            //         'message' => 'Pengadaan Gagal Diupdate!',
+            //     ], 400);
+            // }
 
             if ($procurement) {
                 return response()->json([
@@ -138,6 +167,11 @@ class ProcurementsController extends Controller
                 'success' => true,
                 'message' => 'Pengadaan Berhasil Dihapus!',
             ], 200);
+        } else {
+            return response()->json([
+                'success' => false,
+                'message' => 'Pengadaan Gagal Diupdate!',
+            ], 400);
         }
     }
 }
