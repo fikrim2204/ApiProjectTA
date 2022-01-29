@@ -4,18 +4,15 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class ClassModel extends Model
+class HourModel extends Model
 {
     /**
      * @var string
      */
-    protected $table = 'class';
+    protected $table = 'hour';
 
     /**
      * @var array
      */
-    protected $fillable = [
-        'name',
-        'id_program_study'
-    ];
+    
 }

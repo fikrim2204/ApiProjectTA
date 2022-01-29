@@ -16,12 +16,15 @@ class MaintenanceModel extends Model
      */
     protected $fillable = [
         'no_computer',
-        'complaint',
+        'title',
         'date_reported',
         'date_required',
         'date_repaired',
         'repair_result',
         'status',
+        'img_1',
+        'img_2',
+        'img_3',
         'id_lecturer',
         'id_technician',
         'id_room',

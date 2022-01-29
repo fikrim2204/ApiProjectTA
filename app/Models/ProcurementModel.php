@@ -15,11 +15,16 @@ class ProcurementModel extends Model
      * @var array
      */
     protected $fillable = [
-        'procurement',
+        'title',
+        'total',
+        'unit',
         'date_requested',
-        'reason',
+        'description',
         'id_user',
         'status',
         'note',
+        'img_1',
+        'img_2',
+        'img_3',
     ];
 }

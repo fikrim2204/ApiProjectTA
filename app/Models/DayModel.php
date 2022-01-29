@@ -4,18 +4,15 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class ClassModel extends Model
+class DayModel extends Model
 {
     /**
      * @var string
      */
-    protected $table = 'class';
+    protected $table = 'day';
 
     /**
      * @var array
      */
-    protected $fillable = [
-        'name',
-        'id_program_study'
-    ];
+    
 }

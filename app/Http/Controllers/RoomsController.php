@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\RoomModel;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
+use Illuminate\Support\Facades\DB;
 
 class RoomsController extends Controller
 {
@@ -12,10 +13,19 @@ class RoomsController extends Controller
     {
         $this->middleware("login");
     }
+
+    public function listLabRoom() {
+        $room = DB::table('room')
+        ->select('id', 'code', 'name')
+        ->where('id', '<=', '8')
+        ->get();
+
+        return $room;
+    }
     
     public function index()
     {
-        $room = RoomModel::all();
+        $room = $this->listLabRoom();
 
         return response()->json([
             'success' => true,
