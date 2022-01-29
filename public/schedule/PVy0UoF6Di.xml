@@ -1,0 +1,3567 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students_Timetable>
+  <Subgroup name="3MI-I A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="D102"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3MI-I B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3MI-II A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2301-PROBABILITAS DAN STATISTIKA"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2301-PROBABILITAS DAN STATISTIKA"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4302-PRAKTEK MULTIMEDIA "></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4302-PRAKTEK MULTIMEDIA "></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4302-PRAKTEK MULTIMEDIA "></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="IS 4301-PRAKTEK BASIS DATA LANJUT"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="IS 4301-PRAKTEK BASIS DATA LANJUT"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="IS 4301-PRAKTEK BASIS DATA LANJUT"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 4304-PRAKTEK PEMROGRAMAN WEB DINAMIS"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 4304-PRAKTEK PEMROGRAMAN WEB DINAMIS"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 4304-PRAKTEK PEMROGRAMAN WEB DINAMIS"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="IS 3301-MULTIMEDIA"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="IS 3301-MULTIMEDIA"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 3302-STRUKTUR DATA"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 3302-STRUKTUR DATA"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 3302-STRUKTUR DATA"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher> <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="IS 4305-PRAKTEK STRUKTUR DATA"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher> <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="IS 4305-PRAKTEK STRUKTUR DATA"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher> <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="IS 4305-PRAKTEK STRUKTUR DATA"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="IS 1301-PENDIDIKAN PANCASILA"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="IS 1301-PENDIDIKAN PANCASILA"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="IS 1302-PENDIDIKAN KEWARGANEGARAAN"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="IS 1302-PENDIDIKAN KEWARGANEGARAAN"></Subject><Room name="C103"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Albar"></Teacher><Subject name="IS 2302-KOMPUTER DAN MASYARAKAT"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Albar"></Teacher><Subject name="IS 2302-KOMPUTER DAN MASYARAKAT"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4303-PRAKTEK PEMROGRAMAN VISUAL "></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4303-PRAKTEK PEMROGRAMAN VISUAL "></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4303-PRAKTEK PEMROGRAMAN VISUAL "></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3MI-II B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="IS 4301-PRAKTEK BASIS DATA LANJUT"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="IS 4301-PRAKTEK BASIS DATA LANJUT"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="IS 4301-PRAKTEK BASIS DATA LANJUT"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 3302-STRUKTUR DATA"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 3302-STRUKTUR DATA"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 3302-STRUKTUR DATA"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 4304-PRAKTEK PEMROGRAMAN WEB DINAMIS"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 4304-PRAKTEK PEMROGRAMAN WEB DINAMIS"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 4304-PRAKTEK PEMROGRAMAN WEB DINAMIS"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4303-PRAKTEK PEMROGRAMAN VISUAL "></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4303-PRAKTEK PEMROGRAMAN VISUAL "></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4303-PRAKTEK PEMROGRAMAN VISUAL "></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher> <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="IS 4305-PRAKTEK STRUKTUR DATA"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher> <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="IS 4305-PRAKTEK STRUKTUR DATA"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher> <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="IS 4305-PRAKTEK STRUKTUR DATA"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fanny Sukma, MT-FANNY"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="IS 4302-PRAKTEK MULTIMEDIA "></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fanny Sukma, MT-FANNY"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="IS 4302-PRAKTEK MULTIMEDIA "></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Fanny Sukma, MT-FANNY"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="IS 4302-PRAKTEK MULTIMEDIA "></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="IS 3301-MULTIMEDIA"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="IS 3301-MULTIMEDIA"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2301-PROBABILITAS DAN STATISTIKA"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2301-PROBABILITAS DAN STATISTIKA"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="IS 1301-PENDIDIKAN PANCASILA"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="IS 1301-PENDIDIKAN PANCASILA"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+      <Teacher name="Albar"></Teacher><Subject name="IS 2302-KOMPUTER DAN MASYARAKAT"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Albar"></Teacher><Subject name="IS 2302-KOMPUTER DAN MASYARAKAT"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="IS 1302-PENDIDIKAN KEWARGANEGARAAN"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="IS 1302-PENDIDIKAN KEWARGANEGARAAN"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3MI-III A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="IS 3501-JARINGAN KOMPUTER"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="IS 3501-JARINGAN KOMPUTER"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+      <Teacher name="Mutia El Khairat, SS.,M.Hum"></Teacher><Subject name="IS 1501-BAHASA INGGRIS TERAPAN 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Mutia El Khairat, SS.,M.Hum"></Teacher><Subject name="IS 1501-BAHASA INGGRIS TERAPAN 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="IS 2501-E-BUSSINESS"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="IS 2501-E-BUSSINESS"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 3503-PEMROGRAMAN MOBILE"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 3503-PEMROGRAMAN MOBILE"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 2502-KEWIRAUSAHAAN"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 2502-KEWIRAUSAHAAN"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3MI-III B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 2502-KEWIRAUSAHAAN"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 2502-KEWIRAUSAHAAN"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fithratul Miladiyenti, S.S.,M.Hum"></Teacher><Subject name="IS 1501-BAHASA INGGRIS TERAPAN 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fithratul Miladiyenti, S.S.,M.Hum"></Teacher><Subject name="IS 1501-BAHASA INGGRIS TERAPAN 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="IS 3501-JARINGAN KOMPUTER"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="IS 3501-JARINGAN KOMPUTER"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 3503-PEMROGRAMAN MOBILE"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="IS 3503-PEMROGRAMAN MOBILE"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="IS 2501-E-BUSSINESS"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="IS 2501-E-BUSSINESS"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3MI-III C Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="IS 4502-PRAKTEK JARINGAN KOMPUTER"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="IS 4501-PRAKTEK E-COMMERCE"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="IS 2501-E-BUSSINESS"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="IS 2501-E-BUSSINESS"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 2502-KEWIRAUSAHAAN"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="IS 2502-KEWIRAUSAHAAN"></Subject><Room name="D102"></Room>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="IS 3501-JARINGAN KOMPUTER"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="IS 3501-JARINGAN KOMPUTER"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 3503-PEMROGRAMAN MOBILE"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 3503-PEMROGRAMAN MOBILE"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="IS 4503-PRAKTEK PEMROGRAMAN JARINGAN"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="IS 4504-PRAKTEK PEMROGRAMAN MOBILE"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+      <Teacher name="Fithratul Miladiyenti, S.S.,M.Hum"></Teacher><Subject name="IS 1501-BAHASA INGGRIS TERAPAN 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fithratul Miladiyenti, S.S.,M.Hum"></Teacher><Subject name="IS 1501-BAHASA INGGRIS TERAPAN 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 4505-PRA PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="IS 3502-MANAJEMEN PROYEK"></Subject><Room name="E202"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="MSU Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C103"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher> <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E206"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="PP Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 4102-Praktik Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="IS 3101-Algoritma Pemrograman"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="IS 2101-Logika Informatika"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="IS 2103-Agama"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="IS 4103-Praktik Perakitan dan Instalasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="IS 4101-Praktik Aplikasi Komputer"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="IS 3101_1-P.alpro"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Engrina Fauzi SH MH"></Teacher><Subject name="IS 2102-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="IS 3103-Sistem Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="IS 3102-Pengantar Teknologi Informasi"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-I A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="CE 1201-Agama Islam"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="CE 1201-Agama Islam"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="CE 2103-Matematika"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="CE 2103-Matematika"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 2102_1-Prak Algoritma Pemrograman Dasar"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 2102_1-Prak Algoritma Pemrograman Dasar"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 2102_1-Prak Algoritma Pemrograman Dasar"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 3101-P. Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 3101-P. Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 3101-P. Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="CE 2102-Algoritma Pemrograman Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="CE 2102-Algoritma Pemrograman Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="CE 3101_1-Jaringan Komputer Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="CE 3101_1-Jaringan Komputer Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 4104-Instalasi Komputer "></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 4104-Instalasi Komputer "></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 4104-Instalasi Komputer "></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="CE 1101-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="CE 1101-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4101-Aplikasi Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4101-Aplikasi Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4101-Aplikasi Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-I B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4101-Aplikasi Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4101-Aplikasi Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fitri Nova, MT-FITRI N"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4101-Aplikasi Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 3101-P. Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 3101-P. Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Andre-And"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 3101-P. Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 3101_1-Jaringan Komputer Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 3101_1-Jaringan Komputer Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 4104-Instalasi Komputer "></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 4104-Instalasi Komputer "></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 4104-Instalasi Komputer "></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="CE 1201-Agama Islam"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Deni Wahyuni-DENI W"></Teacher><Subject name="CE 1201-Agama Islam"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="CE 2102-Algoritma Pemrograman Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="CE 2102-Algoritma Pemrograman Dasar"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="CE 2103-Matematika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="CE 2103-Matematika"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="CE 1101-Pancasila"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Astri Jenita-ASRI J"></Teacher><Subject name="CE 1101-Pancasila"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Fitri Nova, MT-FITRI N"></Teacher><Subject name="CE 2101-Elektronika Dasar"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 2102_1-Prak Algoritma Pemrograman Dasar"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 2102_1-Prak Algoritma Pemrograman Dasar"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher> <Teacher name="Fanny Sukma, MT-FANNY"></Teacher><Subject name="CE 2102_1-Prak Algoritma Pemrograman Dasar"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 3102-Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-II A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="CE 3303-Arsitektur komputer"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="CE 3303-Arsitektur komputer"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 3302-Konsep Routing"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 3302-Konsep Routing"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 3302-Konsep Routing"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4305-Praktek Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4305-Praktek Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="CE 4305-Praktek Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="CE 3304-Pemrograman Berorientasi Objek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="CE 3304-Pemrograman Berorientasi Objek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="CE 3304-Pemrograman Berorientasi Objek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="CE 2301-Probabilitas dan Statistika"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="CE 2301-Probabilitas dan Statistika"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="CE 3305-Teknologi Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Bayu Ramadhani Fajri, M.Ds-BAYU"></Teacher><Subject name="CE 3305-Teknologi Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="CE 4304-Praktek Pemrograman Web Lanjutan"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="CE 4304-Praktek Pemrograman Web Lanjutan"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="CE 4304-Praktek Pemrograman Web Lanjutan"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 3301-Sistem Operasi"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 3301-Sistem Operasi"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 3301-Sistem Operasi"></Subject><Room name="C103"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4301-Praktek Pemrograman Berorientasi Objek"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4301-Praktek Pemrograman Berorientasi Objek"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4301-Praktek Pemrograman Berorientasi Objek"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4302-Praktek Routing"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4302-Praktek Routing"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4302-Praktek Routing"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4303-Praktek Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4303-Praktek Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4303-Praktek Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-II B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="CE 3304-Pemrograman Berorientasi Objek"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="CE 3304-Pemrograman Berorientasi Objek"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="CE 3304-Pemrograman Berorientasi Objek"></Subject><Room name="E206"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4302-Praktek Routing"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4302-Praktek Routing"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4302-Praktek Routing"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 4305-Praktek Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 4305-Praktek Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher> <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 4305-Praktek Multimedia"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="CE 3303-Arsitektur komputer"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="CE 3303-Arsitektur komputer"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="CE 4304-Praktek Pemrograman Web Lanjutan"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="CE 4304-Praktek Pemrograman Web Lanjutan"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="CE 4304-Praktek Pemrograman Web Lanjutan"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4301-Praktek Pemrograman Berorientasi Objek"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4301-Praktek Pemrograman Berorientasi Objek"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="CE 4301-Praktek Pemrograman Berorientasi Objek"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="CE 2301-Probabilitas dan Statistika"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="CE 2301-Probabilitas dan Statistika"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 3305-Teknologi Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="CE 3305-Teknologi Multimedia"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3302-Konsep Routing"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3302-Konsep Routing"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3302-Konsep Routing"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 3301-Sistem Operasi"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 3301-Sistem Operasi"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 3301-Sistem Operasi"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="CE 4303-Praktek Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="CE 4303-Praktek Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher> <Teacher name="Andre-And"></Teacher><Subject name="CE 4303-Praktek Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-III A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 2502-Etika Profesi"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 2502-Etika Profesi"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="CE 2501-Manajemen Proyek"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="CE 2501-Manajemen Proyek"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Astuti Pratiwi Rahmadhani, S.Pd.,M.Pd."></Teacher><Subject name="CE 1501-Bahasa Inggris Terapan 2"></Subject><Room name="AB304"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Astuti Pratiwi Rahmadhani, S.Pd.,M.Pd."></Teacher><Subject name="CE 1501-Bahasa Inggris Terapan 2"></Subject><Room name="AB304"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 1502-Pendidikan Kewarganegaraan"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 1502-Pendidikan Kewarganegaraan"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-III B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fithratul Miladiyenti, S.S.,M.Hum"></Teacher><Subject name="CE 1501-Bahasa Inggris Terapan 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Fithratul Miladiyenti, S.S.,M.Hum"></Teacher><Subject name="CE 1501-Bahasa Inggris Terapan 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="CE 2501-Manajemen Proyek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="CE 2501-Manajemen Proyek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 1502-Pendidikan Kewarganegaraan"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 1502-Pendidikan Kewarganegaraan"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 2502-Etika Profesi"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 2502-Etika Profesi"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="3TK-III C Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Hidra Amnur, M.Kom-HIDRA"></Teacher><Subject name="CE 4503-Praktek Administrasi Jaringan"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Tri Lestari-Tri"></Teacher> <Teacher name="Aldo Erianda, MT-ALDO"></Teacher><Subject name="CE 4505-Praktek Pemrograman Mobile Lanjutan"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Sariani-SARIANI"></Teacher><Subject name="CE 1501-Bahasa Inggris Terapan 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Sariani-SARIANI"></Teacher><Subject name="CE 1501-Bahasa Inggris Terapan 2"></Subject><Room name="AB203"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher> <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher><Subject name="CE 4504-Praktek Administrasi Server"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 1502-Pendidikan Kewarganegaraan"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 1502-Pendidikan Kewarganegaraan"></Subject><Room name="C103"></Room>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 2502-Etika Profesi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="CE 2502-Etika Profesi"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="CE 2501-Manajemen Proyek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Rita Afyenni, M.Kom-RITA"></Teacher><Subject name="CE 2501-Manajemen Proyek"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Mooduto,M.Kom-MOODUTO"></Teacher> <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 4502-Praktek WAN"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher><Subject name="CE 4501-Pra Tugas Akhir"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="CE 3501-Teknologi WAN"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4RPL-I A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL3103-Algoritma dan Pemrograman "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL3103-Algoritma dan Pemrograman "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL3103-Algoritma dan Pemrograman "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3102-Jaringan Komputer "></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3102-Jaringan Komputer "></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3102-Jaringan Komputer "></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Rinaldi, S.Pd.I.,M.Ed"></Teacher><Subject name="RPL1102-Pendidikan Agama"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Rinaldi, S.Pd.I.,M.Ed"></Teacher><Subject name="RPL1102-Pendidikan Agama"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3102_1-Prak Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3102_1-Prak Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3102_1-Prak Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2101-Aljabar Linear dan Matrik "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2101-Aljabar Linear dan Matrik "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="RPL3101-Pengantar Teknologi Informasi &amp; Komunikasi "></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="RPL3101-Pengantar Teknologi Informasi &amp; Komunikasi "></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Cipto Prabowo, MT-CIPTO"></Teacher><Subject name="RPL3101-Pengantar Teknologi Informasi &amp; Komunikasi "></Subject><Room name="E206"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL2102-Matematika Diskrit"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL2102-Matematika Diskrit"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Nisa-NISA"></Teacher> <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL4101-Praktek Pemrograman Aplikasi Perkantoran "></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Nisa-NISA"></Teacher> <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL4101-Praktek Pemrograman Aplikasi Perkantoran "></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Nisa-NISA"></Teacher> <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL4101-Praktek Pemrograman Aplikasi Perkantoran "></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL2102_1-Prak Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL2102_1-Prak Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL2102_1-Prak Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4RPL-I B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL2102-Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL2102-Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL2102_1-Prak Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL2102_1-Prak Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="H.Rasyidah,S.Si,MM-IDAH"></Teacher><Subject name="RPL2102_1-Prak Matematika Diskrit"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL3103-Algoritma dan Pemrograman "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL3103-Algoritma dan Pemrograman "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher><Subject name="RPL3103-Algoritma dan Pemrograman "></Subject><Room name="E201"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Rinaldi, S.Pd.I.,M.Ed"></Teacher><Subject name="RPL1102-Pendidikan Agama"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Rinaldi, S.Pd.I.,M.Ed"></Teacher><Subject name="RPL1102-Pendidikan Agama"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3101-Pengantar Teknologi Informasi &amp; Komunikasi "></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3101-Pengantar Teknologi Informasi &amp; Komunikasi "></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3101-Pengantar Teknologi Informasi &amp; Komunikasi "></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Indri Rahmayuni, MT-INDRI"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3103_1-Prak Algoritma dan Pemrograman"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="RPL4101-Praktek Pemrograman Aplikasi Perkantoran "></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="RPL4101-Praktek Pemrograman Aplikasi Perkantoran "></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ronal hadi, ST,M.Kom-RONAL"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="RPL4101-Praktek Pemrograman Aplikasi Perkantoran "></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3102_1-Prak Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3102_1-Prak Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Ulfa Azmi, MT-ULFA"></Teacher><Subject name="RPL3102_1-Prak Jaringan Komputer"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3102-Jaringan Komputer "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3102-Jaringan Komputer "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3102-Jaringan Komputer "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2101-Aljabar Linear dan Matrik "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2101-Aljabar Linear dan Matrik "></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4RPL-II A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="RPL3304-Multimedia &amp; Animasi"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="RPL3304-Multimedia &amp; Animasi"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3305-Interaksi Manusia Komputer"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3305-Interaksi Manusia Komputer"></Subject><Room name="D102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3305-Interaksi Manusia Komputer"></Subject><Room name="D102"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301_1-Prak Metode Numerik"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301_1-Prak Metode Numerik"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301_1-Prak Metode Numerik"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="RPL3302-Sistem Operasi "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="RPL3302-Sistem Operasi "></Subject><Room name="E201"></Room>
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="RPL3303-Pemrograman Berorientasi Objek"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="RPL3303-Pemrograman Berorientasi Objek"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="RPL3303-Pemrograman Berorientasi Objek"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="RPL3301-Sistem Basis Data"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="RPL3301-Sistem Basis Data"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher><Subject name="RPL3301-Sistem Basis Data"></Subject><Room name="E201"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3301_1-Prak Sistem Basis Data"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3301_1-Prak Sistem Basis Data"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Meri Azmi,M.Cs-MERI"></Teacher> <Teacher name="Humaira,MT-MIRA"></Teacher><Subject name="RPL3301_1-Prak Sistem Basis Data"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301-Metode Numerik"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301-Metode Numerik"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL3304_1-Prak Multimedia &amp; Animasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL3304_1-Prak Multimedia &amp; Animasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL3304_1-Prak Multimedia &amp; Animasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL4302-Praktek Desain Grafis Antarmuka Aplikasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL4302-Praktek Desain Grafis Antarmuka Aplikasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL4302-Praktek Desain Grafis Antarmuka Aplikasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3302_1-Prak Sistem Operasi"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3302_1-Prak Sistem Operasi"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3302_1-Prak Sistem Operasi"></Subject><Room name="E304-( LAB.JARINGAN)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E302-( LAB.P2)"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4RPL-II B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="RPL3301_1-Prak Sistem Basis Data"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="RPL3301_1-Prak Sistem Basis Data"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Humaira,MT-MIRA"></Teacher> <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="RPL3301_1-Prak Sistem Basis Data"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3302_1-Prak Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3302_1-Prak Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher> <Teacher name="roni putra-roni"></Teacher><Subject name="RPL3302_1-Prak Sistem Operasi"></Subject><Room name="E303-( LAB.INSTALASI)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301_1-Prak Metode Numerik"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301_1-Prak Metode Numerik"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301_1-Prak Metode Numerik"></Subject><Room name="E205-Lab Mobile 2"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="RPL3301-Sistem Basis Data"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="RPL3301-Sistem Basis Data"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Yance Sonatha,MT-YANCE"></Teacher><Subject name="RPL3301-Sistem Basis Data"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3305-Interaksi Manusia Komputer"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3305-Interaksi Manusia Komputer"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Defni, M.Kom-DEFNI"></Teacher><Subject name="RPL3305-Interaksi Manusia Komputer"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="RPL3304-Multimedia &amp; Animasi"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher><Subject name="RPL3304-Multimedia &amp; Animasi"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301-Metode Numerik"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Fazrol Rozi,M.Sc-ROZI"></Teacher><Subject name="RPL2301-Metode Numerik"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL4302-Praktek Desain Grafis Antarmuka Aplikasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL4302-Praktek Desain Grafis Antarmuka Aplikasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL4302-Praktek Desain Grafis Antarmuka Aplikasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher> <Teacher name="Tri Lestari-Tri"></Teacher><Subject name="RPL4301-Praktek Pemrograman Java"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="RPL3303-Pemrograman Berorientasi Objek"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="RPL3303-Pemrograman Berorientasi Objek"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ervan Asri,M.Kom-ERVAN"></Teacher><Subject name="RPL3303-Pemrograman Berorientasi Objek"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL3304_1-Prak Multimedia &amp; Animasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL3304_1-Prak Multimedia &amp; Animasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Taufik Gusman, M.Ds-TAUFIK"></Teacher> <Teacher name="Sofia Yose, S.Sn., M.Sn"></Teacher><Subject name="RPL3304_1-Prak Multimedia &amp; Animasi"></Subject><Room name="E305-(LAB. MULTIMEDIA)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="RPL3302-Sistem Operasi "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deddy Prayama, M.ISD-DEDDY"></Teacher><Subject name="RPL3302-Sistem Operasi "></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4RPL-III A Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="RPL3502-Manajemen Proyek Perangkat Lunak"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="RPL3502-Manajemen Proyek Perangkat Lunak"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="RPL3502-Manajemen Proyek Perangkat Lunak"></Subject><Room name="E206"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="RPL4501-Praktek Pemrograman Web Framework"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="RPL4501-Praktek Pemrograman Web Framework"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Nisa-NISA"></Teacher><Subject name="RPL4501-Praktek Pemrograman Web Framework"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Fitri Adona, M.Si"></Teacher><Subject name="RPL1501-Bahasa Indonesia"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Fitri Adona, M.Si"></Teacher><Subject name="RPL1501-Bahasa Indonesia"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="RPL3503-Kecerdasan Buatan"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="RPL3503-Kecerdasan Buatan"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="RPL3503-Kecerdasan Buatan"></Subject><Room name="E208"></Room>
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="RPL3501-Sistem Keamanan Komputer &amp; Jaringan"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="RPL3501-Sistem Keamanan Komputer &amp; Jaringan"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="RPL3501-Sistem Keamanan Komputer &amp; Jaringan"></Subject><Room name="E201"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="C103"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="RPL1502-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="RPL1502-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="RPL1502-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+  <Subgroup name="4RPL-III B Grup Otomat">
+   <Day name="Senin">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="RPL3502-Manajemen Proyek Perangkat Lunak"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="RPL3502-Manajemen Proyek Perangkat Lunak"></Subject><Room name="E202"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yulherniwati,S.Kom,MT-HENI"></Teacher><Subject name="RPL3502-Manajemen Proyek Perangkat Lunak"></Subject><Room name="E202"></Room>
+    </Hour>
+   </Day>
+   <Day name="Selasa">
+    <Hour name="07:30-08:20">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="RPL3503-Kecerdasan Buatan"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="RPL3503-Kecerdasan Buatan"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Dwiny Meidelfi, M.Cs-DWINY"></Teacher><Subject name="RPL3503-Kecerdasan Buatan"></Subject><Room name="E208"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+     
+    </Hour>
+    <Hour name="14:40-15:30">
+     
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Rabu">
+    <Hour name="07:30-08:20">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher> <Teacher name="Yulindon-Yul"></Teacher><Subject name="RPL3504-Metodologi Penelitian"></Subject><Room name="E204-Lab Mobile 1"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+     
+    </Hour>
+    <Hour name="13:00-13:50">
+     
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Fitri Adona, M.Si"></Teacher><Subject name="RPL1501-Bahasa Indonesia"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Fitri Adona, M.Si"></Teacher><Subject name="RPL1501-Bahasa Indonesia"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+     
+    </Hour>
+    <Hour name="16:35-17:25">
+     
+    </Hour>
+   </Day>
+   <Day name="Kamis">
+    <Hour name="07:30-08:20">
+     
+    </Hour>
+    <Hour name="08:20-09:10">
+     
+    </Hour>
+    <Hour name="09:10-10:00">
+     
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher><Subject name="RPL4501-Praktek Pemrograman Web Framework"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher><Subject name="RPL4501-Praktek Pemrograman Web Framework"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Yuhefizar,M.Kom-EFI"></Teacher> <Teacher name="Deni Satria,M.Kom-DENI S"></Teacher><Subject name="RPL4501-Praktek Pemrograman Web Framework"></Subject><Room name="E306-(LAB. SISTEM INFORMASI)"></Room>
+    </Hour>
+   </Day>
+   <Day name="Jumat">
+    <Hour name="07:30-08:20">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="RPL1502-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="08:20-09:10">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="RPL1502-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="09:10-10:00">
+      <Teacher name="Ikhsan Yusda,SH,LLM-IKHSAN"></Teacher><Subject name="RPL1502-Pancasila"></Subject><Room name="C102"></Room>
+    </Hour>
+    <Hour name="10:15-11:05">
+     
+    </Hour>
+    <Hour name="11:05-11:55">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="RPL3501-Sistem Keamanan Komputer &amp; Jaringan"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:00-13:50">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="RPL3501-Sistem Keamanan Komputer &amp; Jaringan"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="13:50-14:40">
+      <Teacher name="Alde Alanda,S.Kom,MT-ALDHE"></Teacher><Subject name="RPL3501-Sistem Keamanan Komputer &amp; Jaringan"></Subject><Room name="E201"></Room>
+    </Hour>
+    <Hour name="14:40-15:30">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="15:45-16:35">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+    <Hour name="16:35-17:25">
+      <Teacher name="Aldo Erianda, MT-ALDO"></Teacher> <Teacher name="Rahmat Hidayat, ST.,M.Sc.IT-RAHMAT H"></Teacher><Subject name="RPL4502-Project 2 (web information system)"></Subject><Room name="E301-( LAB.P1)"></Room>
+    </Hour>
+   </Day>
+  </Subgroup>
+</Students_Timetable>

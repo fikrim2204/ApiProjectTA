@@ -4,21 +4,25 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class SchedulleModel extends Model
+class ScheduleModel extends Model
 {
     /**
      * @var string
      */
-    protected $table = 'schedulle';
+    protected $table = 'schedule';
 
     /**
      * @var array
      */
     protected $fillable = [
+        'id_class',
         'day',
         'hour',
-        'id_class',
         'id_user',
+        'id_user2',
+        'subject',
         'id_room',
+        'date',
+        'id_regular'
     ];
 }
