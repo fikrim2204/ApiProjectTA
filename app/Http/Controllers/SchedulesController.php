@@ -44,8 +44,8 @@ class SchedulesController extends Controller
         ->selectRaw('group_concat(schedule.id order by schedule.id) as id, class.name as class, subject.name as subject, day.name as day, group_concat(hour.name order by hour.id) as hour, schedule.date as date')
         ->where('room.id', $room_id)
         ->whereNotNull('schedule.id_class')
-        ->orderBy('schedule.id')
-        ->groupBy('class.name', 'subject.name', 'day.name', 'schedule.date')->get();
+        ->groupBy('class.name', 'subject.name', 'day.name', 'schedule.date')
+        ->orderBy('schedule.id')->get();
 
         // $table2 = DB::table('subtitute_schedule')
         // ->leftJoin('day', 'subtitute_schedule.day', '=', 'day.id')
