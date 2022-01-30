@@ -41,7 +41,7 @@ class SchedulesController extends Controller
         ->leftJoin('users as a1', 'schedule.id_user', '=', 'a1.id')
         ->leftJoin('users as a2', 'schedule.id_user2', '=', 'a2.id')
         ->leftJoin('room', 'schedule.id_room', '=', 'room.id')
-        ->selectRaw('any_value(group_concat(schedule.id order by schedule.id) as id), class.name as class, subject.name as subject, day.name as day, group_concat(hour.name order by hour.id) as hour, schedule.date as date')
+        ->selectRaw('any_value(group_concat(schedule.id order by schedule.id)) as id, class.name as class, subject.name as subject, day.name as day, group_concat(hour.name order by hour.id) as hour, schedule.date as date')
         ->where('room.id', $room_id)
         ->whereNotNull('schedule.id_class')
         ->groupBy('class.name', 'subject.name', 'day.name', 'schedule.date')
