@@ -3,7 +3,18 @@
 require_once '../vendor/autoload.php';
 
 ob_end_clean();
-$mpdf = new \Mpdf\Mpdf();
+$header = '<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<div style="text-align: center; font-size: 16px; font-weight: bold;">
+KEMENTERIAN RISET, TEKNOLOGI DAN PENDIDIKAN TINGGI<br>
+POLITEKNIK NEGERI PADANG</div>
+<div style="text-align: center; font-size: 10px; border-bottom: 2px solid #000000;">Kampus Politeknik Negeri Padang Limau Manis, Padang, Sumatera Barat<br>
+Telepon (0751) 72590, Faks (0751) 72576<br>
+Laman : http://www.pnp.ac.id E-mail : info@pnp.ac.id </div>';
+$mpdf = new \Mpdf\Mpdf(['mode' => 'utf-8', 'format' => 'A4', 'setAutoTopMargin' => 'pad']);
 
 $html = '<!DOCTYPE html>
 <html lang="en">
@@ -34,5 +45,7 @@ $html = '<!DOCTYPE html>
 $html .= '</tbody>
 </table>';
 
+$mpdf->SetHTMLHeader($header);
+$mpdf->SetHTMLFooter('{PAGENO}/{nbpg}');
 $mpdf->WriteHTML($html);
 $mpdf->Output('daftar-pengadaan-bulanan.pdf', 'I');

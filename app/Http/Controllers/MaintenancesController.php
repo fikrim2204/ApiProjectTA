@@ -363,6 +363,7 @@ class MaintenancesController extends Controller
         $now = Carbon::now();
         $month = date('m', strtotime(date('Y-m')." -2 month"));
         $year = date('Y', strtotime(date('Y-m')." -2 month"));
+        echo $month.$year;
         $maintenance = $this->maintenanceMonth($month, $year);
 
         return view('maintenance_monthly_report', ['maintenance' => $maintenance]);

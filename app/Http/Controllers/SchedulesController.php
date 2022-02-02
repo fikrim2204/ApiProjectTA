@@ -928,6 +928,7 @@ class SchedulesController extends Controller
                 'data' => $loadFile
             ], 401);
         } else {
+            $this->createSchedule();
             foreach ($loadFile as $items) {
                 $temp = $items['name'];
                 $class = trim(str_replace('Grup Otomat', '', $temp));
@@ -1482,6 +1483,7 @@ class SchedulesController extends Controller
     }
 
     public function createSchedule(){
+        ScheduleModel::truncate();
         for ($day = 1; $day <= 6; $day++) {
             for ($room=1; $room <=20 ; $room++) { 
                 for ($hour=1; $hour <=10 ; $hour++) { 
