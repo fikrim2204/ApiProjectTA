@@ -459,7 +459,6 @@ class SchedulesController extends Controller
             $lecture2Empty = [];
             $classEmpty = [];
             for ($i=$firstHour; $i < $endHour ; $i++) { 
-                echo $request->input('day').$request->input('day').$i;
                 $scheduleEmpty[] = $this->isScheduleEmpty($splitRoom[0], $request->input('day'), $i);
                 $lectureEmpty[] = $this->isLectureEmpty($request->input('day'), $i, $lecture1);
                 $lecture2Empty[] = $this->isLectureEmpty($request->input('day'), $i, $lecture1);
@@ -467,7 +466,6 @@ class SchedulesController extends Controller
             }
             
             if (sizeof($scheduleEmpty) == 3) {
-                echo $scheduleEmpty[0].$scheduleEmpty[1].$scheduleEmpty[2];
                 if ($scheduleEmpty[0] == 1 and $scheduleEmpty[1] == 1 and $scheduleEmpty[2] == 1) {
                     if ($classEmpty[0] == 1 and $classEmpty[1] == 1 and $classEmpty[2] == 1) {
                         if ($lectureEmpty[0] == 1 and $lectureEmpty[1] == 1 and $lectureEmpty[2] == 1) {
@@ -521,7 +519,6 @@ class SchedulesController extends Controller
                 ], 400);
                 }
             } else if (sizeof($scheduleEmpty) == 4) {
-                echo $scheduleEmpty[0].$scheduleEmpty[1].$scheduleEmpty[2].$scheduleEmpty[3];
                 if ($scheduleEmpty [0] == 1 and $scheduleEmpty [1] == 1 and $scheduleEmpty [2] == 1 and $scheduleEmpty [3] == 1) {
                     if ($classEmpty[0] == 1 and $classEmpty[1] == 1 and $classEmpty[2] == 1 and $classEmpty[3] == 1) {
                         if ($lectureEmpty[0] == 1 and $lectureEmpty[1] == 1 and $lectureEmpty[2] == 1 and $lectureEmpty[3] == 1) {
