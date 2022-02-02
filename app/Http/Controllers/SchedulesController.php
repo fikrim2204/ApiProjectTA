@@ -677,7 +677,7 @@ class SchedulesController extends Controller
 
             $hours = explode(",", $request->input('hour'));
             $date = $request->input('date');
-            $day = Carbon::createFromFormat('d-m-Y', $date)->format('l');
+            $day = Carbon::createFromFormat('Y-m-d', $date)->format('l');
             $hari = $this->translateDate($day);
             
             $day = $this->convertDaytoIdFromDatabase($hari);
