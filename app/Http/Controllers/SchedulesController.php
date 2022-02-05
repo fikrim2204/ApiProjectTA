@@ -535,7 +535,7 @@ class SchedulesController extends Controller
                                         $schedule -> save();
                                     }
                                 }
-                                if ($reschedule) {
+                                if ($schedule) {
                                     $this->updateGroup($request->input('old_id'));
                                     return response()->json([
                                         'success' => true,
