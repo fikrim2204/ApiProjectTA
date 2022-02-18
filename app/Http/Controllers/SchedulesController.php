@@ -1099,7 +1099,7 @@ class SchedulesController extends Controller
         $year = date('Y');
         $schedule = $this->scheduleSubtituteMonthly($month, $year);
         
-        if (sizeof($schedule) != 0) {
+        if ($schedule) {
             return response()->json([
                 'success'   => true,
                 'message'   => 'Pengganti Jadwal Bulanan!',
@@ -1120,7 +1120,7 @@ class SchedulesController extends Controller
         $year = date('Y', strtotime(date('Y-m')." -1 month"));
         $schedule = $this->scheduleSubtituteMonthly($month, $year);
         
-        if (sizeof($schedule) != 0) {
+        if ($schedule) {
             return response()->json([
                 'success'   => true,
                 'message'   => 'Pengganti Jadwal Bulanan!',
@@ -1141,7 +1141,7 @@ class SchedulesController extends Controller
         $year = date('Y', strtotime(date('Y-m')." -2 month"));
         $schedule = $this->scheduleSubtituteMonthly($month, $year);
         
-        if (sizeof($schedule) != 0) {
+        if ($schedule) {
             return response()->json([
                 'success'   => true,
                 'message'   => 'Pengganti Jadwal Bulanan!',

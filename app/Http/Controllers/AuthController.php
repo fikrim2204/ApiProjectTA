@@ -40,7 +40,6 @@ class AuthController extends Controller
         ];
 
 
-
         if (UserModel::create($data)) {
             $out = [
                 "message" => "register_success",
