@@ -25,6 +25,7 @@ class MaintenancesController extends Controller
         'maintenance.status', 'users.name as lecturer')
         ->where('maintenance.status', '!=', 'Selesai')
         ->whereOr('maintenance.status', '!=', 'Dibatalkan')
+        ->orderBy('maintenance.date_required')
         ->get();
     }
 
